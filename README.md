@@ -7,13 +7,13 @@
 
 - **💬 Currently diving into:**  Machine Learning, Deep Learning, Database.
 
-- **⚡ Fun fact:**  When I'm not coding, I’m experimenting with new ways to integrate creativity into technology — from gaphic design to blending music with code. 🎨🎶
+- **⚡ Fun fact:**  When I'm not coding, you’ll find me experimenting with new ways to integrate creativity into technology — from gaphic design to blending music with code. 🎨🎶
 
 - **🚀 Vision:**  Transforming challenges into solutions, one line of code at a time.🍁
 
-- **📫 How to reach me:**  amisoumyadeepdas@gmail.com✉️
+- **📫 How to reach me:**  amisoumyadeepdas@gmail.com ✉️
 
-- **📄 Activities:**  When I'm not coding, you’ll find me exploring new recipes, playing sports, or getting lost in a good book!🕖
+- **📄 Activities:**  I'm usually cooking up something new, scoring goals, or diving into a good book!🕖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
