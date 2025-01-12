@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Das</h1>
 <h3 align="center">A passionate Software Engineer from India - Crafting Tomorrow's Tech</h3>
 
-<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
 <p align="left"> <a href="https://twitter.com/dassoumyad30832" target="blank"><img src="https://img.shields.io/twitter/follow/dassoumyad30832?logo=twitter&style=for-the-badge" alt="dassoumyad30832" /></a> </p>
 
