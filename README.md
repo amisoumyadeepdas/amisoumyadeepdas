@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soumyadeep Das</h1>
 <h3 align="center">A passionate Software Engineer from India - Crafting Tomorrow's Tech</h3>
 
+<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <a href="https://twitter.com/dassoumyad30832" target="blank"><img src="https://img.shields.io/twitter/follow/dassoumyad30832?logo=twitter&style=for-the-badge" alt="dassoumyad30832" /></a> </p>
 
 - **🔭 Tech Enthusiast:**  I’m a problem-solver by day and a bug-squasher by night. I love creating digital magic that makes the impossible possible. Coding isn’t just my job, it’s my favorite puzzle to solve‼️
