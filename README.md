@@ -7,11 +7,11 @@
 
 - **🔭 Tech Enthusiast:**  I’m a problem-solver by day and a bug-squasher by night. I love creating digital magic that makes the impossible possible. Coding isn’t just my job, it’s my favorite puzzle to solve‼️
 
-- **💬 Currently diving into:**  Machine Learning, Deep Learning, Database.
+- **🚀 Vision:**  Transforming challenges into solutions, one line of code at a time.🍁
 
 - **⚡ Fun fact:**  When I'm not coding, you’ll find me experimenting with new ways to integrate creativity into technology — from gaphic design to blending music with code. 🎨🎶
 
-- **🚀 Vision:**  Transforming challenges into solutions, one line of code at a time.🍁
+- **💬 Currently diving into:**  Machine Learning, Deep Learning, Database.
 
 - **📫 How to reach me:**  amisoumyadeepdas@gmail.com ✉️
 
