@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="500" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 
-<p align="left"> <a href="https://www.instagram.com/_soumyadeep_0926/" target="blank"><img src="https://img.shields.io/twitter/follow/_ssoumya_0926?logo=twitter&style=for-the-badge" alt="dassoumyad30832" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/_soumyadeep_0926/" target="blank"><img src="https://img.shields.io/twitter/follow/soumya_0926?logo=instagram&style=for-the-badge" alt="dassoumyad30832" /></a> </p>
 
 - **🔭 Tech Enthusiast:**  I’m a problem-solver by day and a bug-squasher by night. I love creating digital magic that makes the impossible possible. Coding isn’t just my job, it’s my favorite puzzle to solve‼️
 
