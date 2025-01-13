@@ -1,4 +1,4 @@
-![logo](https://github.com/amisoumyadeepdas/amisoumyadeepdas/blob/main/White%20Glow%20Coming%20Soon%20Video%20(1).mp4)
+![logo](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
 <h1 align="center">Hi 👋, I'm Soumyadeep Das</h1>
 <h3 align="center">A passionate Software Engineer from India - Crafting Tomorrow's Tech</h3>
 
