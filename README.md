@@ -57,7 +57,20 @@
 ##
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amisoumyadeepdas&show_icons=true&locale=en&layout=compact" alt="amisoumyadeepdas" /></p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amisoumyadeepdas&show_icons=true&locale=en&layout=compact&theme=dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amisoumyadeepdas&show_icons=true&locale=en&layout=compact&theme=light"
+  />
+  <img
+    alt="amisoumyadeepdas GitHub Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=amisoumyadeepdas&show_icons=true&locale=en&layout=compact"
+  />
+</picture>
 
 
 
