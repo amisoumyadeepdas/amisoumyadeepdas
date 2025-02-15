@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dassoumyad30832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dassoumyad30832" height="30" width="40" /></a>
+<a href="https://x.com/DasSoumyad30832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dassoumyad30832" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/soumyadeep-das-11550b255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumyadeep das" height="30" width="40" /></a>
-<a href="https://fb.com/dë ëp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dë ëp" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100033726210848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dë ëp" height="30" width="40" /></a>
 <a href="https://instagram.com/_soumyadeep_0926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_soumyadeep_0926" height="30" width="40" /></a>
 </p>
 
